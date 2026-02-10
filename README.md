@@ -38,7 +38,6 @@ Website database anime yang dibangun dengan React, Vite, Shadcn UI, dan Zustand 
 
 ```bash
 git clone <repository-url>
-cd anime-streaming-site
 ```
 
 2. Install dependencies:
