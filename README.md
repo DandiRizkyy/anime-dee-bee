@@ -108,7 +108,7 @@ anime-streaming-site/
 
 ### Pages
 
-1. **Home** - Menampilkan trending dan seasonal anime
+1. **Home** - Menampilkan trending anime
 2. **Trending** - List anime trending dengan infinite scroll
 3. **Search** - Hasil pencarian anime
 4. **Anime Detail** - Informasi lengkap anime + list episodes
